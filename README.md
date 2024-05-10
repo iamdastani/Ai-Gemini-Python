@@ -2,6 +2,9 @@
 
 Gemini 1.5 Pro is an advanced conversational AI model developed by Google GenerativeAI. This README provides instructions on how to use the chatbot script to interact with the model and initiate conversations.
 
+Swahili Video Tutorial link:
+https://twitter.com/iamdastani/status/1788880021760638992
+
 ## Requirements
 - Python 3.x
 - Google GenerativeAI API key
