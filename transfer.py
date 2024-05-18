@@ -2,7 +2,7 @@ import requests
 
 # Headers
 headers = {
-   'Authorization': 'sk-hxqth1owsxbkvyg6jy5unba7xhmpdbqoc0auwuekbg4s4xnpvlqx4y9xa8lict2k69'
+   'Authorization': ''
 }
 
 # Data
